@@ -1,0 +1,44 @@
+h1
+{
+	color: #0000ff;
+}
+h1.o1
+{
+	color: #00ff00;
+}
+#o1
+{
+	color: #da0000;
+    text-align: center;
+}
+a
+{
+    color: aqua
+}
+li[type]{
+    font-family:  'Slabo 27px', serif;
+}
+li{
+    line-height: 25px;
+}
+
+a 
+{
+    letter-spacing: 5pt;
+    padding: 10px;
+    border-color: coral;
+    text-shadow: 3px 2px 1px black;
+    background-color: beige
+}
+body
+{
+    width: 600px;
+    margin: 0 auto;
+    background-color: #FF9500;
+    border: 5px solid black;
+}
+img
+{
+    display: block;
+    margin: 0 auto;
+}
